@@ -1,6 +1,11 @@
 # Soil Moisture Visualization
 
 An interactive physical–digital project that translates real-world soil moisture data into a real-time visual interface using Arduino and p5.js. This project explores how environmental sensor data can be made more legible, intuitive, and engaging through visual design.
+## Project Overview
+
+This was a fun class project exploring physical computing and creative coding.  
+Using Arduino and a soil moisture sensor, I experimented with translating environmental data into a playful visual language.
+The visual elements were illustrated in **Procreate** and brought to life using **p5.js**.
 
 ---
 **Step-by-step setup documentation:** 
@@ -46,8 +51,3 @@ This project uses:
 - **Serial communication** — bridging physical input and digital output  
 
 ---
-## Project Overview
-
-This was a fun class project exploring physical computing and creative coding.  
-Using Arduino and a soil moisture sensor, I experimented with translating environmental data into a playful visual language.
-The visual elements were illustrated in **Procreate** and brought to life using **p5.js**.
