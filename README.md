@@ -20,7 +20,7 @@ The live demo runs in **Demo Mode** using simulated sensor values.
 The full experience requires an Arduino board and soil moisture sensor connected via serial communication.
 This approach ensures the visualization is accessible in a browser while accurately representing the behavior of the real-time system.
 
-👉 **Live demo:** https://yourusername.github.io/soil-moisture-p5js/
+👉 **Live demo:** [https://yourusername.github.io/soil-moisture-p5js/](https://cluelessartistry.github.io/soil-moisture-p5js/)
 
 ---
 
@@ -43,7 +43,7 @@ This project uses:
 - Serial communication between Arduino and p5.js  
 
 **Step-by-step setup documentation:**  
-https://link-to-your-connection-doc
+The documentation is present in the docs folder
 
 ---
 
