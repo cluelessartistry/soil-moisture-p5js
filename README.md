@@ -2,6 +2,8 @@
 
 An interactive physical–digital project that translates real-world soil moisture data into a real-time visual interface using Arduino and p5.js. This project explores how environmental sensor data can be made more legible, intuitive, and engaging through visual design.
 
+**Step-by-step setup documentation:**  
+The documentation is present in the docs folder.
 ---
 
 ## Demo
@@ -41,9 +43,6 @@ This project uses:
 - Arduino  
 - Soil moisture sensor  
 - Serial communication between Arduino and p5.js  
-
-**Step-by-step setup documentation:**  
-The documentation is present in the docs folder
 
 ---
 
