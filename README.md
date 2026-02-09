@@ -7,15 +7,6 @@ An interactive physical–digital project that translates real-world soil moistu
 - The documentation is present in the docs folder.
 ---
 
-## Demo
-
-![Soil moisture sensor driving real-time visualization](assets/soil-moisture-demo.gif)
-
-**Full demo video (with hardware):**  
-https://link-to-your-video
-
----
-
 ## Live Demo
 
 ⚠️ **Hardware Note**  
